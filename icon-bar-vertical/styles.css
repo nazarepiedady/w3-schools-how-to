@@ -11,3 +11,13 @@
 	background-color: #222;
 	list-style-type: none;
 }
+
+.icon-bar__icon-link {
+	padding: 16px;
+	display: block;
+
+	color: #fff;
+	font-size: 36px;
+	text-align: center;
+	transition: background-color .3s ease;
+}
