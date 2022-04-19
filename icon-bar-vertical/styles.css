@@ -5,3 +5,9 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+.icon-bar {
+	width: 90px;
+	background-color: #222;
+	list-style-type: none;
+}
