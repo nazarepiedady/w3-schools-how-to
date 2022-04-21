@@ -37,3 +37,7 @@
 .icon-bar__icon-link:hover {
   background-color: #111;
 }
+
+.icon-bar__icon-link--active {
+  background-color: hotpink;
+}
