@@ -11,3 +11,9 @@
   background-color: #444;
   list-style-type: none;
 }
+
+.icon-bar__icon-item {
+  width: 20%;
+  float: left;
+}
+
