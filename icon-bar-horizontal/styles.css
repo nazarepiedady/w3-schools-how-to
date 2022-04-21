@@ -17,3 +17,9 @@
   float: left;
 }
 
+.icon-bar__item:before,
+.icon-bar__item:after {
+  clear: both;
+  content: '';
+  display: table;
+}
