@@ -7,19 +7,19 @@
 }
 
 .icon-bar {
-  width: 90px;
+  width: 100%;
   background-color: #444;
   list-style-type: none;
+}
+
+.icon-bar::before,
+.icon-bar::after {
+  clear: both;
+  content: '';
+  display: table;
 }
 
 .icon-bar__icon-item {
   width: 20%;
   float: left;
-}
-
-.icon-bar__item:before,
-.icon-bar__item:after {
-  clear: both;
-  content: '';
-  display: table;
 }
