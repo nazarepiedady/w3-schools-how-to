@@ -5,3 +5,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.menu-icon__line {
+  width: 35px;
+  height: 5px;
+  background-color: #111;
+}
