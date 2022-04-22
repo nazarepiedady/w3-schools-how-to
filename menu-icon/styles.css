@@ -6,6 +6,11 @@
   box-sizing: border-box;
 }
 
+.menu-icon {
+  margin-top: 50%;
+  margin-left: 50%;
+}
+
 .menu-icon__line {
   width: 35px;
   height: 5px;
