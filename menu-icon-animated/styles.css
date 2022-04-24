@@ -10,3 +10,11 @@
   cursor: pointer;
   display: inline-block;
 }
+
+.menu-icon__line {
+  width: 35px;
+  height: 5px;
+  margin: 6px 0;
+  transition: 0.4s;
+  background-color: #222;
+}
