@@ -26,3 +26,7 @@
 .menu-icon--active .line-two {
   opacity: 0;
 }
+
+.menu-icon--active .line-three {
+  transform: rotate(45deg) translate(-8px, -8px);
+}
