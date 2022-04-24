@@ -18,3 +18,7 @@
   transition: 0.4s;
   background-color: #222;
 }
+
+.menu-icon--active .line-one {
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
