@@ -22,3 +22,7 @@
 .menu-icon--active .line-one {
   transform: rotate(-45deg) translate(-9px, 6px);
 }
+
+.menu-icon--active .line-two {
+  opacity: 0;
+}
