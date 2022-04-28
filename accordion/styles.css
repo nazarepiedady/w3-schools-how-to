@@ -15,5 +15,7 @@
   cursor: pointer;
   font-size: 16px;
   text-align: left;
+  background-color: #eee;
   transition: background-color .4s;
 }
+
