@@ -12,3 +12,14 @@
   border: 1px solid #ccc;
   background-color: #f1f1f1;
 }
+
+.tablinks {
+  border: 0;
+  outline: 0;
+  float: left;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 14px 16px;
+  background-color: inherit;
+  transition: background-color .3s;
+}
