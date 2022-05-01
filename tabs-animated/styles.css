@@ -38,3 +38,8 @@
   border: 1px solid #ccc;
   border-top: 0;
 }
+
+@-webkit-keyframes fadeEffect {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
