@@ -38,6 +38,7 @@
   border: 1px solid #ccc;
   border-top: 0;
   -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
 }
 
 @-webkit-keyframes fadeEffect {
