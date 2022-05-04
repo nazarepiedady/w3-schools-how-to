@@ -9,3 +9,11 @@
 html {
   font-family: sans-serif;
 }
+
+.tab {
+  width: 30%;
+  float: left;
+  height: 300px;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
