@@ -35,3 +35,7 @@ html {
 .tablinks:hover {
   background-color: #ddd;
 }
+
+.tablinks.active {
+  background-color: #ccc;
+}
