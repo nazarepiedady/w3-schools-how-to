@@ -12,3 +12,5 @@ function openCity(event, cityName) {
   document.getElementById(cityName).style.display = 'block';
   event.currentTarget.className += ' active';
 }
+
+document.getElementById('defaultOpen').click();
