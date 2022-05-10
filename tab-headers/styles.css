@@ -21,3 +21,7 @@ html {
   padding: 14px 16px;
   background-color: #555;
 }
+
+.tablink:hover {
+  background-color: #777;
+}
