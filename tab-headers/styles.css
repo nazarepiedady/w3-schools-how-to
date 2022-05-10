@@ -25,3 +25,10 @@ html {
 .tablink:hover {
   background-color: #777;
 }
+
+.tabcontent {
+  color: #fff;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
