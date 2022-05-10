@@ -12,3 +12,5 @@ function openCity(cityName, $element, color) {
   document.getElementById(cityName).style.display = 'block';
   $element.style.backgroundColor = color;
 }
+
+document.getElementById('defaultOpen').click();
