@@ -27,3 +27,10 @@ body {
 .tablink:hover {
   background-color: #777;
 }
+
+.tabcontent {
+  color: #fff;
+  height: 100%;
+  display: none;
+  padding: 100px 20px;
+}
