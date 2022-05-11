@@ -11,3 +11,15 @@ body {
   height: 100%;
   font-family: sans-serif;
 }
+
+.tablink {
+  border: 0;
+  outline: 0;
+  width: 25%;
+  color: #fff;
+  float: left;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 14px 16px;
+  background-color: #555;
+}
