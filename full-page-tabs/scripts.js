@@ -12,3 +12,6 @@ function openPage(pageName, $element, color) {
   document.getElementById(pageName).style.display = 'block';
   $element.style.backgroundColor = color;
 }
+
+
+document.getElementById('defaultOpen').click();
