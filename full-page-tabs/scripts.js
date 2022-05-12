@@ -8,4 +8,6 @@ function openPage(pageName, $element, color) {
   for (var index = 0; index < $tablinks.length; i++) {
     $tablinks[index].style.backgroundColor = '';
   }
+
+  document.getElementById(pageName).style.display = 'block';
 }
