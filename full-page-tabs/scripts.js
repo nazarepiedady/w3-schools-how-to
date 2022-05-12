@@ -5,7 +5,7 @@ function openPage(pageName, $element, color) {
   }
 
   var $tablinks = document.getElementsByClassName('tablink');
-  for (var index = 0; index < $tablinks.length; i++) {
+  for (var index = 0; index < $tablinks.length; index++) {
     $tablinks[index].style.backgroundColor = '';
   }
 
