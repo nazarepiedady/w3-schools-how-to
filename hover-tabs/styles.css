@@ -29,3 +29,7 @@ html {
   padding: 22px 16px;
   background-color: inherit;
 }
+
+.tablinks:hover {
+  background-color: #ddd;
+}
