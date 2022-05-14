@@ -5,4 +5,7 @@ function openCity(event, cityName) {
   }
 
   var $tablinks = document.getElementsByClassName('tablinks');
+  for (var index = 0; index < $tablinks.length; index++) {
+    $tablinks[index].className = $tablinks[i].className.replace(' active', '');
+  }
 }
