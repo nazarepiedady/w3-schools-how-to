@@ -3,4 +3,6 @@ function openCity(event, cityName) {
   for (var index = 0; index < $tabcontent.length; index++) {
     $tabcontent[index].style.display = 'none';
   }
+
+  var $tablinks = document.getElementsByClassName('tablinks');
 }
