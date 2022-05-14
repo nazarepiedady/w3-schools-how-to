@@ -6,7 +6,7 @@ function openCity(event, cityName) {
 
   var $tablinks = document.getElementsByClassName('tablinks');
   for (var index = 0; index < $tablinks.length; index++) {
-    $tablinks[index].className = $tablinks[i].className.replace(' active', '');
+    $tablinks[index].className = $tablinks[index].className.replace(' active', '');
   }
 
   document.getElementById(cityName).style.display = 'block';
