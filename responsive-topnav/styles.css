@@ -34,3 +34,7 @@ html {
   color: #fff;
   background-color: #04aa6d;
 }
+
+.topnav .icon {
+  display: none;
+}
