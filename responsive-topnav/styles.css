@@ -24,3 +24,8 @@ html {
   padding: 14px 16px;
   text-decoration: none;
 }
+
+.topnav a:hover {
+  color: #000;
+  background-color: #ddd;
+}
