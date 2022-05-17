@@ -60,4 +60,10 @@ html {
     right: 0;
     position: absolute;
   }
+
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
 }
