@@ -54,4 +54,10 @@ html {
   .topnav.responsive {
     position: relative;
   }
+
+  .topnav.responsive .icon {
+    top: 0;
+    right: 0;
+    position: absolute;
+  }
 }
