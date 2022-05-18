@@ -31,3 +31,10 @@ body {
 .active {
   background-color: #04aa6d;
 }
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
