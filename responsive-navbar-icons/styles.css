@@ -15,3 +15,11 @@ body {
   overflow: auto;
   background-color: #555;
 }
+
+.navbar a {
+  float: left;
+  color: #fff;
+  padding: 12px;
+  font-size: 18px;
+  text-decoration: none;
+}
