@@ -23,3 +23,7 @@ body {
   font-size: 18px;
   text-decoration: none;
 }
+
+.navbar a:hover {
+  background-color: #000;
+}
