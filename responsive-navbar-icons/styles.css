@@ -27,3 +27,7 @@ body {
 .navbar a:hover {
   background-color: #000;
 }
+
+.active {
+  background-color: #04aa6d;
+}
