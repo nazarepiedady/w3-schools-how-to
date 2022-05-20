@@ -3,4 +3,5 @@ function myFunction() {
 
   input = document.getElementById('mySearch');
   filter = input.value.toUpperCase();
+  ul = document.getElementById('myMenu');
 }
