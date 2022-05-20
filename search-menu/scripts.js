@@ -5,4 +5,8 @@ function myFunction() {
   filter = input.value.toUpperCase();
   ul = document.getElementById('myMenu');
   li = ul.getElementsByClassName('li');
+
+  for (i = 0; i < li.length; i++) {
+  }
+
 }
