@@ -23,3 +23,10 @@ body {
   flex: 65%;
   padding: 15px;
 }
+
+#mySearch {
+  width: 100%;
+  padding: 11px;
+  font-size: 18px;
+  border: 1px solid #ddd;
+}
