@@ -36,3 +36,10 @@ body {
   padding: 0;
   list-style-type: none;
 }
+
+#myMenu li a {
+  color: #000;
+  padding: 12px;
+  display: block;
+  text-decoration: none;
+}
