@@ -7,6 +7,7 @@ function myFunction() {
   li = ul.getElementsByClassName('li');
 
   for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName('a')[0];
   }
 
 }
