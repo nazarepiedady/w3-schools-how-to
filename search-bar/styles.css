@@ -42,3 +42,14 @@ body {
   margin-top: 8px;
   font-size: 18px;
 }
+
+.topnav .search-container button {
+  border: 0;
+  float: right;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 8px;
+  padding: 6px 10px;
+  margin-right: 16px;
+  background-color: #ddd;
+}
