@@ -62,4 +62,15 @@ body {
   .topnav .search-container {
     float: none;
   }
+
+  .topnav a,
+  .topnav input[type=text],
+  .topnav .search-container button {
+    margin: 0;
+    width: 100%;
+    float: none;
+    padding: 14px;
+    display: block;
+    text-align: left;
+  }
 }
