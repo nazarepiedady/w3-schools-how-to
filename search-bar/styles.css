@@ -35,3 +35,10 @@ body {
 .topnav .search-container {
   float: right;
 }
+
+.topnav input[type=text] {
+  border: 0;
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 18px;
+}
