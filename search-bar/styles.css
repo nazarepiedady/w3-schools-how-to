@@ -53,3 +53,7 @@ body {
   margin-right: 16px;
   background-color: #ddd;
 }
+
+.topnav .search-container button:hover {
+  background-color: #ccc;
+}
