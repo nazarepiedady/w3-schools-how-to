@@ -73,4 +73,8 @@ body {
     display: block;
     text-align: left;
   }
+
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
 }
