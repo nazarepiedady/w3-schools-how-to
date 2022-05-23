@@ -13,3 +13,11 @@ body {
   overflow-x: hidden;
   background-color: #111;
 }
+
+.sidenav a {
+  display: block;
+  color: #818181;
+  font-size: 25px;
+  text-decoration: none;
+  padding: 6px 8px 6px 16px;
+}
