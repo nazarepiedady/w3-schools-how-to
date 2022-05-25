@@ -24,3 +24,9 @@ body {
 .sidenav a:hover {
   color: #064579;
 }
+
+.main {
+  font-size: 28px;
+  padding: 0 10px;
+  margin-left: 140px;
+}
