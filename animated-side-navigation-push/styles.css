@@ -35,3 +35,8 @@ body {
   margin-left: 50px;
   position: absolute;
 }
+
+.main {
+  padding: 16px;
+  transition: margin-left 0.5s;
+}
