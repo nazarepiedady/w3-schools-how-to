@@ -42,4 +42,6 @@ body {
   transition: margin-left 0.5;
 }
 
-@media screen and (max-height: 450px) {}
+@media screen and (max-height: 450px) {
+  .sidenav { padding-top: 15px; }
+}
