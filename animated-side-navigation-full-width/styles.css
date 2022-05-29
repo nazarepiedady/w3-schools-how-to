@@ -28,3 +28,11 @@ body {
 .sidenav a:hover {
   color: #f1f1f1;
 }
+
+.sidenav .close-btn {
+  top: 0;
+  right: 26px;
+  font-size: 36px;
+  margin-left: 50px;
+  position: absolute;
+}
