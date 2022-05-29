@@ -24,3 +24,7 @@ body {
   text-decoration: none;
   padding: 8px 8px 8px 32px;
 }
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
