@@ -37,4 +37,6 @@ body {
   position: absolute;
 }
 
-@media screen and (max-width: 450px) {}
+@media screen and (max-width: 450px) {
+  .sidenav { padding-top: 15px; }
+}
