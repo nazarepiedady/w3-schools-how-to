@@ -1,3 +1,17 @@
 body {
   font-family: 'Lato', sans-serif;
 }
+
+.sidenav {
+  top: 0;
+  left: 0;
+  width: 0;
+  z-index: 1;
+  height: 100%;
+  position: fixed;
+  transition: 0.5s;
+  padding-top: 60px;
+  text-align: center;
+  overflow-x: hidden;
+  background-color: #111;
+}
