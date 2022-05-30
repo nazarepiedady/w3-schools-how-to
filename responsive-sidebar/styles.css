@@ -19,3 +19,8 @@ body {
   display: block;
   text-decoration: none;
 }
+
+.sidebar a.active {
+  color: #fff;
+  background-color: #04aa6d;
+}
