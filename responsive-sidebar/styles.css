@@ -12,3 +12,10 @@ body {
   position: fixed;
   background-color: #f1f1f1;
 }
+
+.sidebar a {
+  color: #000;
+  padding: 16px;
+  display: block;
+  text-decoration: none;
+}
