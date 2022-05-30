@@ -35,3 +35,5 @@ div.content {
   padding: 1px 16px;
   margin-left: 200px;
 }
+
+@media screen and (max-width: 700px) {}
