@@ -42,4 +42,8 @@ div.content {
     height: auto;
     position: relative;
   }
+
+  .sidebar a {
+    float: left;
+  }
 }
