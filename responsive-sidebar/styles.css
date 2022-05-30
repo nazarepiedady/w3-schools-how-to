@@ -2,3 +2,13 @@ body {
   margin: 0;
   font-family: 'Lato', sans-serif;
 }
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  height: 100%;
+  overflow: auto;
+  position: fixed;
+  background-color: #f1f1f1;
+}
