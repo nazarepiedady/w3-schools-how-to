@@ -47,4 +47,10 @@ body {
   .overlay a {
     font-size: 20px;
   }
+
+  .overlay .close-button {
+    top: 15px;
+    right: 35px;
+    font-size: 40px;
+  }
 }
