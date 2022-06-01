@@ -1,3 +1,15 @@
 body {
   font-family: 'Lato', sans-serif;
 }
+
+.overlay {
+  top: 0;
+  left: 0;
+  width: 0;
+  z-index: 1;
+  height: 100%;
+  position: fixed;
+  transition: 0.5s;
+  overflow-x: hidden;
+  background-color: rgba(0, 0, 0, 0.9);
+}
