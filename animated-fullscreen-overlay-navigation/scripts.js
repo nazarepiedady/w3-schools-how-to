@@ -20,9 +20,9 @@ function deactivateSlideDownAnimation() {
 
 
 function openNav() {
-  activatePushRightAnimation(); // active the push to right animation
+  //activatePushRightAnimation(); // active the push to right animation
 }
 
 function closeNav() {
-  deactivatePushRightAnimation() // deactive the push to right animation
+  //deactivatePushRightAnimation() // deactive the push to right animation
 }
