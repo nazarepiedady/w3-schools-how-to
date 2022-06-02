@@ -15,6 +15,6 @@ function openNav() {
 }
 
 function closeNav() {
-  //deactivatePushRightAnimation() // deactive the push to right animation
+  deactivatePushRightAnimation() // deactive the push to right animation
   //document.getElementById('navigation').style.width = '0';
 }
