@@ -11,6 +11,12 @@ body {
   background-color: rgba(0, 0, 0, 0.9);
 }
 
+.overlay--push-right {
+  width: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
+
 .overlay-content {
   top: 25%;
   width: 100%;
