@@ -8,6 +8,11 @@ function deactivatePushRightAnimation() {
   $overlay.style.width = '0';
 }
 
+function activateSlideDownAnimation() {
+  var $overlay = document.querySelector('.overlay--slide-down');
+  $overlay.style.height = 100%;
+}
+
 
 function openNav() {
   activatePushRightAnimation(); // active the push to right animation
