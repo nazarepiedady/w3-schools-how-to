@@ -17,6 +17,12 @@ body {
   overflow-x: hidden;
 }
 
+.overlay--slide-down {
+  height: 0;
+  width: 100%;
+  overflow-y: hidden;
+}
+
 .overlay-content {
   top: 25%;
   width: 100%;
