@@ -10,7 +10,7 @@ function deactivatePushRightAnimation() {
 
 function activateSlideDownAnimation() {
   var $overlay = document.querySelector('.overlay--slide-down');
-  $overlay.style.height = 100%;
+  $overlay.style.height = '100%';
 }
 
 function deactivateSlideDownAnimation() {
