@@ -21,6 +21,7 @@ function deactivateSlideDownAnimation() {
 
 function openNav() {
   //activatePushRightAnimation(); // active the push to right animation
+  activateSlideDownAnimation();
 }
 
 function closeNav() {
