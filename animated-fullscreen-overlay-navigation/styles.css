@@ -57,6 +57,10 @@ body {
     font-size: 20px;
   }
 
+  .overlay--slide-down {
+    overflow-y: auto;
+  }
+
   .overlay .close-button {
     top: 15px;
     right: 35px;
