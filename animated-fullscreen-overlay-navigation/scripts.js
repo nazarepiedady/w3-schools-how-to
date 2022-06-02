@@ -11,10 +11,8 @@ function deactivatePushRightAnimation() {
 
 function openNav() {
   activatePushRightAnimation(); // active the push to right animation
-  //document.getElementById('navigation').style.width = '100%';
 }
 
 function closeNav() {
   deactivatePushRightAnimation() // deactive the push to right animation
-  //document.getElementById('navigation').style.width = '0';
 }
