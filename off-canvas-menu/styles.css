@@ -45,4 +45,8 @@ body {
   .side-navigation {
     padding-top: 15px;
   }
+
+  .side-navigation a {
+    font-size: 18px;
+  }
 }
