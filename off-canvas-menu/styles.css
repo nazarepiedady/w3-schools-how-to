@@ -23,3 +23,7 @@ body {
   text-decoration: none;
   padding: 8px 8px 8px 32px;
 }
+
+.side-navigation a:hover {
+  color: #f1f1f1;
+}
