@@ -27,3 +27,11 @@ body {
 .side-navigation a:hover {
   color: #f1f1f1;
 }
+
+.side-navigation .close-button {
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 56px;
+  position: absolute;
+}
