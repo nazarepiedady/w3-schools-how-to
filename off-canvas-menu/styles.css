@@ -40,3 +40,7 @@ body {
   padding: 16px;
   transition: margin-left 0.5s;
 }
+
+@media screen and (max-height: 450px) {
+
+}
