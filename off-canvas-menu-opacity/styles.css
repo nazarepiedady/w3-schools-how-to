@@ -15,3 +15,12 @@ body {
   overflow-x: hidden;
   background-color: #111;
 }
+
+.side-navigation a {
+  color: #818181;
+  display: block;
+  font-size: 25px;
+  transition: 0.3s;
+  text-decoration: none;
+  padding: 8px 8px 8px 32px;
+}
