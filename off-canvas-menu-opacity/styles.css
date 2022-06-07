@@ -42,4 +42,8 @@ body {
   transition:  margin-left 0.5s;
 }
 
-@media screen and (max-height: 450px) {}
+@media screen and (max-height: 450px) {
+  .side-navigation {
+    padding-top: 15px;
+  }
+}
