@@ -1,3 +1,14 @@
 html {
   font-family: 'Ubuntu', sans-serif;
 }
+
+.side-navigation a {
+  left: -80px;
+  color: #fff;
+  width: 100px;
+  padding: 15px;
+  font-size: 20px;
+  transition: 0.3s;
+  text-decoration: none;
+  border-radius: 0 5px 5px 0;
+}
