@@ -9,6 +9,7 @@ html {
   padding: 15px;
   font-size: 20px;
   transition: 0.3s;
+  position: absolute;
   text-decoration: none;
   border-radius: 0 5px 5px 0;
 }
