@@ -17,3 +17,8 @@ html {
 .side-navigation a:hover {
   left: 0;
 }
+
+.about {
+  top: 20px;
+  background-color: #04aa6d;
+}
