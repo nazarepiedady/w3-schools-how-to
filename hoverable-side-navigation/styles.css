@@ -12,3 +12,7 @@ html {
   text-decoration: none;
   border-radius: 0 5px 5px 0;
 }
+
+.side-navigation a:hover {
+  left: 0;
+}
