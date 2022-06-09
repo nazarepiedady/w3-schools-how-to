@@ -25,3 +25,8 @@ body {
 .sidebar a:hover {
   font-family: #f1f1f1;
 }
+
+.main {
+  padding: 0 10px;
+  margin-left: 160px;
+}
