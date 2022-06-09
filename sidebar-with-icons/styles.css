@@ -13,3 +13,11 @@ body {
   overflow-x: hidden;
   background-color: #111;
 }
+
+.sidebar a {
+  color: #818181;
+  display: block;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 6px 68px 6px 16px;
+}
