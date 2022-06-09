@@ -30,3 +30,5 @@ body {
   padding: 0 10px;
   margin-left: 160px;
 }
+
+@media screen and (max-height: 450px) {}
