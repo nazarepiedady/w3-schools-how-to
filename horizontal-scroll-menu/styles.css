@@ -15,3 +15,7 @@ div.scroll-menu a {
   display: inline-block;
   text-decoration: none;
 }
+
+div.scroll-menu a:hover {
+  background-color: #777;
+}
