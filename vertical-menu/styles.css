@@ -17,3 +17,8 @@ body {
 .vertical-menu a:hover {
   background-color: #ccc;
 }
+
+.vertical-menu a.active {
+  color: #fff;
+  background-color: #04aa6d;
+}
