@@ -15,3 +15,7 @@ body {
   text-decoration: none;
   background-color: #eee;
 }
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
