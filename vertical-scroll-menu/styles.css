@@ -19,3 +19,8 @@ body {
 .vertical-menu a:hover {
   background-color: #ccc;
 }
+
+.vertical-menu a.ctive {
+  color: #fff;
+  background-color: #04aa6d;
+}
