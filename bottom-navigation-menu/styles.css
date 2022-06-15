@@ -30,3 +30,8 @@ body {
   color: #fff;
   background-color: #04aa6d;
 }
+
+.main {
+  padding: 16px;
+  margin-bottom: 30px;
+}
