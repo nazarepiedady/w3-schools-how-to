@@ -50,4 +50,10 @@ body {
     bottom: 0;
     position: absolute;
   }
+
+  .navbar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
 }
