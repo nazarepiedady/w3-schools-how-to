@@ -44,4 +44,10 @@ body {
     float: right;
     display: block;
   }
+
+  .navbar.responsive .icon {
+    right: 0;
+    bottom: 0;
+    position: absolute;
+  }
 }
