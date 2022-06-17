@@ -7,3 +7,14 @@ body {
   overflow: hidden;
   background-color: #f1f1f1;
 }
+
+.topnav a {
+  float: left;
+  color: #000;
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
