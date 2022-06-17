@@ -22,3 +22,7 @@ body {
 .topnav a:hover {
   border-bottom: 3px solid #f00;
 }
+
+.topnav a.active {
+  border-bottom: 3px solid #f00;
+}
