@@ -26,3 +26,7 @@ body {
   color: #fff;
   background-color: #04aa6d;
 }
+
+.topnav-right {
+  float: right;
+}
