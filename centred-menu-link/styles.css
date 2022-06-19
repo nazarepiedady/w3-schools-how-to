@@ -27,3 +27,11 @@ body {
   color: #fff;
   background-color: #04aa6d;
 }
+
+.topnav-centered a {
+  top: 50%;
+  left: 50%;
+  float: none;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
