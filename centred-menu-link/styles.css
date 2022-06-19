@@ -41,7 +41,8 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  .topnav a {
+  .topnav a,
+  .topnav-right {
     float: none;
     display: block;
   }
