@@ -46,4 +46,11 @@ body {
     float: none;
     display: block;
   }
+
+  .topnav-centered a {
+    top: 0;
+    left: 0;
+    transform: none;
+    position: relative;
+  }
 }
