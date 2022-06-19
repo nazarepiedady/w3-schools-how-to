@@ -35,3 +35,7 @@ body {
   position: absolute;
   transform: translate(-50%, -50%);
 }
+
+.topnav-right {
+  float: right;
+}
