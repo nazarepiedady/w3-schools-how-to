@@ -7,3 +7,13 @@
   overflow: auto;
   background-color: #555;
 }
+
+.navbar a {
+  width: 25%;
+  float: left;
+  color: #fff;
+  padding: 14px;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+}
