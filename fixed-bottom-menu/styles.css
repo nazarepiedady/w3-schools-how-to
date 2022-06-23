@@ -25,3 +25,9 @@ body {
   color: #000;
   background-color: #ddd;
 }
+
+.main {
+  padding: 16px;
+  height: 1500px;
+  margin-bottom: 30px;
+}
