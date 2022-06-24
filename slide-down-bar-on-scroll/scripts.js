@@ -8,3 +8,7 @@ function showMenuOnScroll() {
     document.getElementById('navbar').style.top = '-50px';
   }
 }
+
+window.onscroll = function() {
+  showMenuOnScroll();
+};
