@@ -22,3 +22,8 @@ body {
   text-align: center;
   text-decoration: none;
 }
+
+.navbar a:hover {
+  color: #000;
+  background-color: #ddd;
+}
