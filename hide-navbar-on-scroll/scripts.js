@@ -1,0 +1,3 @@
+var previousScrollPosition = window.pageYOffset;
+
+
