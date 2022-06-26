@@ -1,5 +1,6 @@
 var previousScrollPosition = window.pageYOffset;
 
+
 function showNavbarOnScroll() {
   var $navbar = document.getElementById('navbar');
   var currentScrollPosition = window.pageYOffset;
@@ -9,4 +10,9 @@ function showNavbarOnScroll() {
     $navbar.style.top = '-50px';
   }
   previousScrollPosition = currentScrollPosition;
+}
+
+
+window.onscroll = function() {
+  showNavbarOnScroll();
 }
