@@ -58,4 +58,7 @@ body {
     display: block;
     text-align: left;
   }
+  .navbar-right {
+    float: none;
+  }
 }
