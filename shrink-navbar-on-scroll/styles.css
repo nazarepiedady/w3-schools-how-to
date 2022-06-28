@@ -44,3 +44,7 @@ body {
   color: #fff;
   background-color: dodgerblue;
 }
+
+.navbar-right {
+  float: right;
+}
