@@ -49,6 +49,12 @@ body {
   float: right;
 }
 
+.content {
+  font-size: 30px;
+  margin-top: 210px;
+  padding: 15px 15px 2500px;
+}
+
 @media screen and (max-width: 500px) {
   .navbar {
     padding: 20px 10px !important;
