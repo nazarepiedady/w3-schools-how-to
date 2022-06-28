@@ -34,3 +34,8 @@ body {
   transition: 0.4s;
   font-weight: bold;
 }
+
+.navbar a:hover {
+  color: #000;
+  background-color: #ddd;
+}
