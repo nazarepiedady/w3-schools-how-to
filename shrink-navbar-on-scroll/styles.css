@@ -28,3 +28,9 @@ body {
   border-radius: 3px;
   text-decoration: none;
 }
+
+.navbar .logo {
+  font-size: 36px;
+  transition: 0.4s;
+  font-weight: bold;
+}
