@@ -12,3 +12,7 @@ function shrinkNavBarOnScroll() {
     $navbar.style.padding = '80px 10px';
   }
 }
+
+window.onscroll = function() {
+  shrinkNavBarOnScroll();
+};
