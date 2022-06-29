@@ -3,3 +3,9 @@ body {
   font-size: 28px;
   font-family: Inter, Arial, Helvetica, sans-serif;
 }
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
