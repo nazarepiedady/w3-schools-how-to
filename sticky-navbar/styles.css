@@ -38,3 +38,9 @@ body {
 .content {
   padding: 16px;
 }
+
+.sticky {
+  top: 0;
+  width: 100%;
+  position: fixed;
+}
