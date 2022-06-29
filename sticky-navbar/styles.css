@@ -44,3 +44,7 @@ body {
   width: 100%;
   position: fixed;
 }
+
+.sticky + .content {
+  padding-top: 60px;
+}
