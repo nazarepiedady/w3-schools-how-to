@@ -1,7 +1,7 @@
-function stickyMenuToTopOnScroll() {
-  var $navbar = document.getElementById('navbar');
-  var stickyOffset = $navbar.offsetTop;
+var $navbar = document.getElementById('navbar');
+var stickyOffset = $navbar.offsetTop;
 
+function stickyMenuToTopOnScroll() {
   if (window.pageYOffset >= stickyOffset) {
     $navbar.classList.add('sticky');
   } else {
