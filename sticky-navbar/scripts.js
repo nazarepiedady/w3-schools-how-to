@@ -8,3 +8,7 @@ function stickyMenuToTopOnScroll() {
     $navbar.classList.remove('sticky');
   }
 }
+
+window.onscroll = function() {
+  stickyMenuToTopOnScroll();
+};
