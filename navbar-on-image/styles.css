@@ -20,3 +20,9 @@ body {
   margin: 20px;
   position: absolute;
 }
+
+.top-navigation {
+  overflow: hidden;
+  background-color: #333;
+}
+
