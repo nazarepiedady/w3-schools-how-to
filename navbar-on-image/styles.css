@@ -5,3 +5,12 @@
 body {
   font-family: Inter, Arial, Helvetica, sans-serif;
 }
+
+.background-image {
+  min-height: 300px;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('images/img_nature.jpg');
+}
