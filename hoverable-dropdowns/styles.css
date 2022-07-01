@@ -9,3 +9,8 @@
   font-size: 16px;
   background-color: #04aa6d;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
