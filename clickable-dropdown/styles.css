@@ -15,3 +15,8 @@
 .drop-button:focus {
   background-color: #2980b9;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
