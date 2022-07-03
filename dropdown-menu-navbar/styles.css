@@ -59,3 +59,7 @@
 .dropdown-content a:hover {
   background-color: #ddd;
 }
+
+.show-dropdown-menu {
+  display: block;
+}
