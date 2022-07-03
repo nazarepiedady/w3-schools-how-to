@@ -33,6 +33,7 @@
 }
 
 .navbar a:hover,
-.drop-button:hover {
+.drop-button:hover,
+.drop-button:focus {
   background-color: #f00;
 }
