@@ -15,3 +15,8 @@
   padding: 14px 16px;
   text-decoration: none;
 }
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
