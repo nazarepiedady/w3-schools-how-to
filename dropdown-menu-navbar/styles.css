@@ -31,3 +31,7 @@
   padding: 14px 16px;
   background-color: inherit;
 }
+
+.navbar a:hover {
+  background-color: #f00;
+}
