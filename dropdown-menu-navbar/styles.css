@@ -32,6 +32,7 @@
   background-color: inherit;
 }
 
-.navbar a:hover {
+.navbar a:hover,
+.drop-button:hover {
   background-color: #f00;
 }
