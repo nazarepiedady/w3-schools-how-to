@@ -44,3 +44,9 @@ body {
   color: #fff;
   background-color: #0f0;
 }
+
+.dropdown-container {
+  display: none;
+  padding-left: 8px;
+  background-color: #262626;
+}
