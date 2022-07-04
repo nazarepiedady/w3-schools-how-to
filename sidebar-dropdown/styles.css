@@ -14,7 +14,8 @@ body {
   background-color: #111;
 }
 
-.sidenav a {
+.sidenav a,
+.dropdown-button {
   border: 0;
   outline: 0;
   width: 100%;
