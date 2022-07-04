@@ -29,6 +29,7 @@ body {
   padding: 6px 8px 6px 16px;
 }
 
-.sidenav a:hover {
+.sidenav a:hover,
+.dropdown-button:hover {
   color: #f1f1f1;
 }
