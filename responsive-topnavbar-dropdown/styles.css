@@ -22,3 +22,7 @@ body {
   color: #fff;
   background-color: #04aa6d;
 }
+
+.topnav .menu-icon {
+  display: none;
+}
