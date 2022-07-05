@@ -76,6 +76,10 @@ body {
   display: block;
 }
 
+.content {
+  padding-left: 16px;
+}
+
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),
   .dropdow .dropdown-button {
