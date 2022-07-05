@@ -31,3 +31,14 @@ body {
   float: left;
   overflow: hidden;
 }
+
+.dropdown .dropdown-button {
+  margin: 0;
+  border: 0;
+  outline: 0;
+  color: #fff;
+  font-size: 18px;
+  padding: 14px 16px;
+  font-family: inherit;
+  background-color: inherit;
+}
