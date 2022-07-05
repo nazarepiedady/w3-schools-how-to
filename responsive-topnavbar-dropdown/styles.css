@@ -81,4 +81,9 @@ body {
   .dropdow .dropdown-button {
     display: none;
   }
+
+  .topnav .menu-icon {
+    float: right;
+    display: block;
+  }
 }
