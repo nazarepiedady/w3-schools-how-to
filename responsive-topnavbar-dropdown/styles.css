@@ -100,4 +100,8 @@ body {
   .topnav.responsive .dropdown {
     float: none;
   }
+
+  .topnav.responsive .dropdown-content {
+    position: relative;
+  }
 }
