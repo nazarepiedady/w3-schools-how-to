@@ -104,4 +104,10 @@ body {
   .topnav.responsive .dropdown-content {
     position: relative;
   }
+
+  .topnav.responsive .dropdown .dropdown-button {
+    width: 100%;
+    display: block;
+    text-align: left;
+  }
 }
