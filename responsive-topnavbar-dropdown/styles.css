@@ -96,4 +96,8 @@ body {
     left: 0;
     position: absolute;
   }
+
+  .topnav.responsive .dropdown {
+    float: none;
+  }
 }
