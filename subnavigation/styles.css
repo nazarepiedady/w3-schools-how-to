@@ -58,6 +58,10 @@ body {
   background-color: #eee;
 }
 
+.subnav:hover .subnav-content {
+  display: block;
+}
+
 .content {
   padding: 0 16px;
 }
