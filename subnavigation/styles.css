@@ -53,6 +53,11 @@ body {
   text-decoration: none;
 }
 
+.subnav-content a:hover {
+  color: #000;
+  background-color: #eee;
+}
+
 .content {
   padding: 0 16px;
 }
