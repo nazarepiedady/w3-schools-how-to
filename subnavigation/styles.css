@@ -33,6 +33,10 @@ body {
   background-color: inherit;
 }
 
+.navbar a:hover {
+  background-color: #f00;
+}
+
 .content {
   padding: 0 16px;
 }
