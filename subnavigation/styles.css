@@ -47,6 +47,12 @@ body {
   background-color: #f00;
 }
 
+.subnav-content a {
+  float: left;
+  color: #fff;
+  text-decoration: none;
+}
+
 .content {
   padding: 0 16px;
 }
