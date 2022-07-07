@@ -38,6 +38,15 @@ body {
   background-color: #f00;
 }
 
+.subnav-content {
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  display: none;
+  position: absolute;
+  background-color: #f00;
+}
+
 .content {
   padding: 0 16px;
 }
