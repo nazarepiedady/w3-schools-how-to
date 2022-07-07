@@ -17,11 +17,11 @@ body {
   text-decoration: none;
 }
 
-.content {
-  padding: 0 16px;
-}
-
 .subnav {
   float: left;
   overflow: hidden;
+}
+
+.content {
+  padding: 0 16px;
 }
