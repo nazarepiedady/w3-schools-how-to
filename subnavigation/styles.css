@@ -33,7 +33,8 @@ body {
   background-color: inherit;
 }
 
-.navbar a:hover {
+.navbar a:hover,
+.subnav-button:hover {
   background-color: #f00;
 }
 
