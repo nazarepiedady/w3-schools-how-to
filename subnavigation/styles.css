@@ -22,6 +22,17 @@ body {
   overflow: hidden;
 }
 
+.subnav-button {
+  margin: 0;
+  border: 0;
+  outline: 0;
+  color: #fff;
+  font-size: 18px;
+  padding: 14px 16px;
+  font-family: inherit;
+  background-color: inherit;
+}
+
 .content {
   padding: 0 16px;
 }
