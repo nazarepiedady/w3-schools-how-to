@@ -89,4 +89,9 @@ body {
   display: table;
 }
 
-@media screen and (max-width: 600px) {}
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    height: auto;
+  }
+}
