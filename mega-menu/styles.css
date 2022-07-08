@@ -37,6 +37,7 @@ body {
   background-color: inherit;
 }
 
-.navbar a:hover {
+.navbar a:hover,
+.dropdown-button:hover {
   background-color: #f00;
 }
