@@ -82,3 +82,9 @@ body {
 .column a:hover {
   background-color: #ddd;
 }
+
+.row:after {
+  content: '';
+  clear: both;
+  display: table;
+}
