@@ -36,3 +36,7 @@ body {
   font-family: inherit;
   background-color: inherit;
 }
+
+.navbar a:hover {
+  background-color: #f00;
+}
