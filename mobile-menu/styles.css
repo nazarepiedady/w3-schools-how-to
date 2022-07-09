@@ -28,3 +28,11 @@ body {
   padding: 14px 16px;
   text-decoration: none;
 }
+
+.mobile-menu-button {
+  top: 0;
+  right: 0;
+  display: block;
+  position: absolute;
+  background-color: #000;
+}
