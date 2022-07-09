@@ -36,3 +36,8 @@ body {
   position: absolute;
   background-color: #000;
 }
+
+.navbar a:hover {
+  color: #000;
+  background-color: #ddd;
+}
