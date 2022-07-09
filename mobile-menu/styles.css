@@ -41,3 +41,8 @@ body {
   color: #000;
   background-color: #ddd;
 }
+
+.active {
+  color: #fff;
+  background-color: #04aa6d;
+}
