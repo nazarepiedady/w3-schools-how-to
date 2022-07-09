@@ -46,3 +46,7 @@ body {
   color: #fff;
   background-color: #04aa6d;
 }
+
+.content {
+  padding-left: 16px;
+}
