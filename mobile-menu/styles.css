@@ -10,3 +10,9 @@ body {
   border-radius: 10px;
   background-color: #555;
 }
+
+.navbar {
+  overflow: hidden;
+  position: relative;
+  background-color: #333;
+}
