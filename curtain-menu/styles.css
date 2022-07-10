@@ -42,3 +42,14 @@ body {
   font-size: 60px;
   position: absolute;
 }
+
+@media screen and (max-height: 450px) {
+  .overlay a {
+    font-size: 20px;
+  }
+  .close-menu-button {
+    top: 15px;
+    right: 35px;
+    font-size: 40px;
+  }
+}
