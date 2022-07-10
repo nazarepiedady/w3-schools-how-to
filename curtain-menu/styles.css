@@ -35,3 +35,10 @@ body {
 .overlay a:focus {
   color: #f1f1f1;
 }
+
+.close-menu-button {
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  position: absolute;
+}
