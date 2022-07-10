@@ -31,6 +31,7 @@ body {
   text-decoration: none;
 }
 
-.overlay a:hover {
+.overlay a:hover,
+.overlay a:focus {
   color: #f1f1f1;
 }
