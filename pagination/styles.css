@@ -9,3 +9,8 @@ body {
   text-decoration: none;
   transition: background-color 0.3s;
 }
+
+.pagination a.active {
+  color: #fff;
+  background-color: dodgerblue;
+}
