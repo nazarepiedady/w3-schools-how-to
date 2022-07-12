@@ -18,3 +18,8 @@ ul.breadcrumb li+li:before {
   content: '/\00a0';
   padding: 8px;
 }
+
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
