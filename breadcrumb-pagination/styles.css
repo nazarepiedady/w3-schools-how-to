@@ -7,3 +7,8 @@ ul.breadcrumb {
   padding: 10px 16px;
   background-color: #eee;
 }
+
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
