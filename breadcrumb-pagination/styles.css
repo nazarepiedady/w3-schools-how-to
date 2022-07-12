@@ -12,3 +12,9 @@ ul.breadcrumb li {
   display: inline;
   font-size: 18px;
 }
+
+ul.breadcrumb li+li:before {
+  color: #000;
+  content: '/\00a0';
+  padding: 8px;
+}
