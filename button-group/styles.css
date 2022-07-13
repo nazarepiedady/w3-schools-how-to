@@ -16,3 +16,7 @@ body {
   content: '';
   display: table;
 }
+
+.button-group button:not(:last-child) {
+  border-right: none;
+}
