@@ -7,3 +7,7 @@
   border: 1px solid green;
   background-color: #04aa6d;
 }
+
+.button-group button:not(:last-child) {
+  border-bottom: 0;
+}
