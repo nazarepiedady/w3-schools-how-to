@@ -11,3 +11,7 @@
 .button-group button:not(:last-child) {
   border-bottom: 0;
 }
+
+.button-group button:hover {
+  background-color: #3e8e41;
+}
