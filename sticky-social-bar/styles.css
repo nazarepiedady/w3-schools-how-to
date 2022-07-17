@@ -22,3 +22,8 @@ body {
 .icon-bar a:hover {
   background-color: #000;
 }
+
+.facebook {
+  color: #fff;
+  background-color: #3b5998;
+}
