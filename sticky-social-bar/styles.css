@@ -3,3 +3,9 @@ body {
   height: 2000px;
   font-family: 'noto sans', sans-serif;
 }
+
+.icon-bar {
+  top: 50%;
+  position: fixed;
+  transform: translateY(-50%);
+}
