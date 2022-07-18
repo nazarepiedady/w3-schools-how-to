@@ -11,3 +11,8 @@ body {
   display: inline-block;
   text-decoration: none;
 }
+
+.pill-navigation a:hover {
+  color: #000;
+  background-color: #ddd;
+}
