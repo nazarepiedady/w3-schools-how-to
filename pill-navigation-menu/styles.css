@@ -16,3 +16,8 @@ body {
   color: #000;
   background-color: #ddd;
 }
+
+.pill-navigation a.active {
+  color: #fff;
+  background-color: dodgerblue;
+}
