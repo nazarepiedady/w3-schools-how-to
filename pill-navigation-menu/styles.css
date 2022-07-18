@@ -1,3 +1,13 @@
 body {
   font-family: 'noto sans', arial, helvetica, sans-serif;
 }
+
+.pill-navigation a {
+  color: #000;
+  padding: 14px;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 5px;
+  display: inline-block;
+  text-decoration: none;
+}
