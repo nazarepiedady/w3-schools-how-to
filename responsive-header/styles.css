@@ -33,3 +33,8 @@ body {
   color: #000;
   background-color: #ddd;
 }
+
+.header a.active {
+  color: #fff;
+  background-color: dodgerblue;
+}
