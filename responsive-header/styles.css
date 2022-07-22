@@ -23,3 +23,8 @@ body {
   border-radius: 4px;
   text-decoration: none;
 }
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
