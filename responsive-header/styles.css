@@ -38,3 +38,7 @@ body {
   color: #fff;
   background-color: dodgerblue;
 }
+
+.header-right {
+  float: right;
+}
