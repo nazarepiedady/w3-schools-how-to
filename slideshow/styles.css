@@ -9,3 +9,7 @@ body {
 .slide {
   display: none;
 }
+
+.slide-image {
+  vertical-align: middle;
+}
