@@ -22,3 +22,8 @@ function showSlide(slideIndex) {
   slides[slideIndex - 1].style.display = 'block';
   dotButtons[slideIndex - 1].className += ' dot-button-active';
 }
+
+
+function previousSlide() {
+  showSlide(slideIndex += -1);
+}
