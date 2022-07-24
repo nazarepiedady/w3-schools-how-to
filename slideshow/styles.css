@@ -64,6 +64,10 @@ body {
   position: absolute;
 }
 
+.slide-dot-button-list {
+  text-align: center;
+}
+
 .dot-button {
   width: 15px;
   height: 15px;
