@@ -23,11 +23,14 @@ function showSlide(slideIndex) {
   dotButtons[slideIndex - 1].className += ' dot-button-active';
 }
 
-
 function previousSlide() {
   showSlide(slideIndex += -1);
 }
 
 function nextSlide() {
   showSlide(slideIndex += 1);
+}
+
+function currentSlide(index) {
+  showSlide(slideIndex = index);
 }
