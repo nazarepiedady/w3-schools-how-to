@@ -14,6 +14,10 @@ function showSlide(slideIndex) {
     slideIndex = slides.length;
   }
 
+  for (var index = 0; index < slides.length; index++) {
+    slides[index].style.display = 'none';
+  }
+
   for (var index = 0; index < dotButtons.length; index++) {
     dotButtons[index].className =
       dotButtons[index].className.replace(' dot-button-active', '');
