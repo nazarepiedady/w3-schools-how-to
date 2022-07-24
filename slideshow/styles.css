@@ -5,3 +5,7 @@
 body {
   font-family: 'noto sans', verdana, sans-serif;
 }
+
+.slide {
+  display: none;
+}
