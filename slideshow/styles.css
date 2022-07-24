@@ -13,3 +13,9 @@ body {
 .slide-image {
   vertical-align: middle;
 }
+
+.slideshow-container {
+  margin: auto;
+  max-width: 1000px;
+  position: relative;
+}
