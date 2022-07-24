@@ -11,7 +11,7 @@ function showSlide(slideIndex) {
   }
 
   if (slideIndex < 1) {
-    slideIndex = slides.length;
+    defaultSlideIndex = slides.length;
   }
 
   for (var index = 0; index < slides.length; index++) {
@@ -23,8 +23,8 @@ function showSlide(slideIndex) {
       dotButtons[index].className.replace(' dot-button-active', '');
   }
 
-  slides[slideIndex - 1].style.display = 'block';
-  dotButtons[slideIndex - 1].className += ' dot-button-active';
+  slides[defaultSlideIndex - 1].style.display = 'block';
+  dotButtons[defaultSlideIndex - 1].className += ' dot-button-active';
 }
 
 function previousSlide() {
