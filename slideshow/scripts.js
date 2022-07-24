@@ -1,5 +1,5 @@
 var defaultSlideIndex = 1;
-//showSlide(slideIndex);
+showSlide(defaultSlideIndex);
 
 
 function showSlide(slideIndex) {
@@ -24,13 +24,13 @@ function showSlide(slideIndex) {
 }
 
 function previousSlide() {
-  showSlide(slideIndex += -1);
+  showSlide(defaultSlideIndex += -1);
 }
 
 function nextSlide() {
-  showSlide(slideIndex += 1);
+  showSlide(defaultSlideIndex += 1);
 }
 
 function currentSlide(index) {
-  showSlide(slideIndex = index);
+  showSlide(defaultSlideIndex = index);
 }
