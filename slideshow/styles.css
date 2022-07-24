@@ -94,4 +94,10 @@ body {
   to { opacity: 1; }
 }
 
-@media only screen and (max-width: 300px) {}
+@media only screen and (max-width: 300px) {
+  .next-slide-button,
+  .slide-caption-text,
+  .previous-slide-button {
+    font-size: 12px;
+  }
+}
