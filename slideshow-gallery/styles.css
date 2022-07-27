@@ -47,3 +47,11 @@ img {
 .next-slide-button:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
+
+.slide-number {
+  top: 0;
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+}
