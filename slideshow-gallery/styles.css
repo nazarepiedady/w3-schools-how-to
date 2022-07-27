@@ -22,3 +22,18 @@ img {
 .cursor {
   cursor: pointer;
 }
+
+.previous-slide-button,
+.next-slide-button {
+  top: 40%;
+  width: auto;
+  color: #fff;
+  padding: 16px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: -50px;
+  user-select: none;
+  position: absolute;
+  border-radius: 0 3px 3px 0;
+}
