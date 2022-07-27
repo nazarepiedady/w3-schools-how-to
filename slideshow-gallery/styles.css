@@ -79,3 +79,8 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.active,
+.demo-image:hover {
+  opacity: 1;
+}
