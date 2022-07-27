@@ -62,3 +62,9 @@ img {
   text-align: center;
   background-color: #222;
 }
+
+.row:after {
+  content: '';
+  clear: both;
+  display: table;
+}
