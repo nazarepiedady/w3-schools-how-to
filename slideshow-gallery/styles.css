@@ -6,3 +6,7 @@ body {
   margin: 0;
   font-family: 'noto sans', arial, helvetica, sans-serif;
 }
+
+img {
+  vertical-align: middle;
+}
