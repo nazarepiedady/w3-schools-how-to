@@ -7,3 +7,7 @@ function previousSlide() {
 function nextSlide() {
   showSlide(slideDefaultIndex += 1);
 }
+
+function currentSlide(slideIndex) {
+  showSlide(slideDefaultIndex = slideIndex);
+}
