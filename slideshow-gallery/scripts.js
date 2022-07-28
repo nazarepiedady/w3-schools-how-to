@@ -1,4 +1,5 @@
 var slideDefaultIndex = 1;
+showSlide(slideDefaultIndex);
 
 function previousSlide() {
   showSlide(slideDefaultIndex += -1);
@@ -35,5 +36,5 @@ function showSlide(slideIndex) {
 
   slides[slideDefaultIndex - 1].style.display = 'block';
   thumbs[slideDefaultIndex - 1].className += ' active';
-  $slideCaption.textContent = thumbs[defaultSlideIndex - 1].alt;
+  $slideCaption.textContent = thumbs[slideDefaultIndex - 1].alt;
 }
