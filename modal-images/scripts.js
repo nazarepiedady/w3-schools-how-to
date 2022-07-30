@@ -10,3 +10,7 @@ $thumbnailImage.onclick = function showModal() {
   $modal.style.display = 'block';
   $modalCaption.textContent = this.alt;
 };
+
+$modalCloseButton.onclick = function hideModal() {
+  $modal.style.display = 'none';
+}
