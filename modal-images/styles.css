@@ -55,3 +55,13 @@ body {
   from { transform: scale(0); }
   to { transform: scale(1); }
 }
+
+.modal-close-button {
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  transition: 0.3s;
+  font-weight: bold;
+  position: absolute;
+}
