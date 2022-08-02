@@ -47,5 +47,8 @@ body {
 .modal-close-button:hover,
 .modal-close-button:focus {
   color: #999;
-  text-decoration: none;
+}
+
+.slide {
+  display: none;
 }
