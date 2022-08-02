@@ -100,3 +100,8 @@ img {
   text-align: center;
   background-color: #000;
 }
+
+.thumbnail-image {
+  width: 100%;
+  opacity: 0.6;
+}
