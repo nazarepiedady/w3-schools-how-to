@@ -110,3 +110,7 @@ img {
 .thumbnail-image:hover {
   opacity: 1;
 }
+
+.hover-shadow {
+  transition: 0.3s;
+}
