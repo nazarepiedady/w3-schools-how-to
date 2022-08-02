@@ -52,3 +52,7 @@ body {
 .slide {
   display: none;
 }
+
+.cursor {
+  cursor: pointer;
+}
