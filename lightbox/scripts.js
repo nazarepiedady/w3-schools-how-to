@@ -14,3 +14,7 @@ function closeModal() {
 function previousSlide() {
   showSlide(slideDefaultIndex += -1);
 }
+
+function nextSlide() {
+  showSlide(slideDefaultIndex += 1);
+}
