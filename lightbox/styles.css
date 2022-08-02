@@ -105,3 +105,8 @@ img {
   width: 100%;
   opacity: 0.6;
 }
+
+.active,
+.thumbnail-image:hover {
+  opacity: 1;
+}
