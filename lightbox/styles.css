@@ -93,3 +93,10 @@ body {
 img {
   margin-bottom: -4px;
 }
+
+.slide-caption {
+  color: #fff;
+  padding: 8px 0;
+  text-align: center;
+  background-color: #000;
+}
