@@ -6,3 +6,7 @@ body {
   margin: 0;
   font-family: 'noto sans', verdana, sans-serif;
 }
+
+.row > .column {
+  padding: 0 8px;
+}
