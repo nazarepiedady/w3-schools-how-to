@@ -19,6 +19,10 @@ function nextSlide() {
   showSlide(slideDefaultIndex += 1);
 }
 
+function currentSlide(slideIndex) {
+  showSlide(slideDefaultIndex = slideIndex);
+}
+
 function showSlide(slideIndex) {
   var slides = document.getElementsByClassName('slide');
   var $slideCaption = document.getElementById('slide-caption');
