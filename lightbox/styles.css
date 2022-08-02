@@ -34,3 +34,12 @@ body {
   padding-top: 100px;
   background-color: #000;
 }
+
+.modal-close-button {
+  top: 10px;
+  right: 25px;
+  color: #fff;
+  font-size: 35px;
+  font-weight: bold;
+  position: absolute;
+}
