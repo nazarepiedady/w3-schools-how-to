@@ -16,3 +16,8 @@ body {
   content: '';
   display: table;
 }
+
+.column {
+  width: 25%;
+  float: left;
+}
