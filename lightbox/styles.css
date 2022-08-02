@@ -43,3 +43,9 @@ body {
   font-weight: bold;
   position: absolute;
 }
+
+.modal-close-button:hover,
+.modal-close-button:focus {
+  color: #999;
+  text-decoration: none;
+}
