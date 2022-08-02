@@ -10,3 +10,9 @@ body {
 .row > .column {
   padding: 0 8px;
 }
+
+.row:after {
+  clear: both;
+  content: '';
+  display: table;
+}
