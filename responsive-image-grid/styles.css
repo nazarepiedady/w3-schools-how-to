@@ -12,8 +12,15 @@ body {
   text-align: center;
 }
 
+.image {
+  width: 100%;
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
 .row {
   display: flex;
   padding: 0 4px;
   flex-wrap: wrap;
 }
+
