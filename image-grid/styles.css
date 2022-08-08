@@ -36,3 +36,8 @@ body {
   border: 1px solid #111;
   background-color: #f1f1f1;
 }
+
+.button:hover {
+  cursor: pointer;
+  background-color: #ddd;
+}
