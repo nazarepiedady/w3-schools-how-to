@@ -37,5 +37,4 @@ function startHighlightButton() {
   }
 }
 
-
 startHighlightButton();
