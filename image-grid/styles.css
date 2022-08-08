@@ -41,3 +41,9 @@ body {
   cursor: pointer;
   background-color: #ddd;
 }
+
+.button.active {
+  color: #fff;
+  border-color: #333;
+  background-color: #666;
+}
