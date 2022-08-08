@@ -11,3 +11,9 @@ body {
   padding: 32px;
   text-align: center;
 }
+
+.image {
+  width: 100%;
+  margin-top: 8px;
+  vertical-align: middle;
+}
