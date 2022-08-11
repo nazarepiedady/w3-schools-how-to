@@ -25,3 +25,7 @@ body {
   opacity: 0.8;
   cursor: pointer;
 }
+
+.column__image:hover {
+  opacity: 1;
+}
