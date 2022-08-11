@@ -10,3 +10,9 @@ body {
 .header {
   text-align: center;
 }
+
+.column {
+  width: 25%;
+  float: left;
+  padding: 10px;
+}
