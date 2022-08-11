@@ -11,6 +11,10 @@ body {
   text-align: center;
 }
 
+.image {
+  width: 100%;
+}
+
 .column {
   width: 25%;
   float: left;
