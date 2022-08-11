@@ -16,3 +16,8 @@ body {
   float: left;
   padding: 10px;
 }
+
+.column__image {
+  opacity: 0.8;
+  cursor: pointer;
+}
