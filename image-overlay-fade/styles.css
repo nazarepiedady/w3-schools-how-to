@@ -25,3 +25,7 @@
   transition: 0.5s ease;
   background-color: #ff8e3c;
 }
+
+.container:hover .overlay {
+  opacity: 1;
+}
