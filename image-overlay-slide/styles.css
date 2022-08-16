@@ -3,8 +3,14 @@
 }
 
 .container {
-  width: 50%;
+  float: left;
+  margin-bottom: 8px;
   position: relative;
+  width: calc(50% - 5px);
+}
+
+.container:nth-child(odd) {
+  margin-right: 10px;
 }
 
 .image {
