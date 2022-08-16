@@ -41,3 +41,9 @@
   bottom: 0;
   height: 100%;
 }
+
+.overlay-slide-top .overlay {
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
