@@ -22,6 +22,10 @@
   overflow: hidden;
   position: absolute;
   transform: scale(0);
-  transition: 0.3 ease;
+  transition: 0.3s ease;
   background-color: #ff8e3c;
+}
+
+.container:hover .overlay {
+  transform: scale(1);
 }
