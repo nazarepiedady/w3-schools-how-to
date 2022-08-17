@@ -12,3 +12,16 @@
   height: auto;
   display: block;
 }
+
+.overlay {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  transform: scale(0);
+  transition: 0.3 ease;
+  background-color: #ff8e3c;
+}
