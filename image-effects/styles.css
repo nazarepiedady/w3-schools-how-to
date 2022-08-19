@@ -1,3 +1,7 @@
 * {
   font-family: 'noto sans', sans-serif;
 }
+
+.image {
+  filter: grayscale(100%);
+}
