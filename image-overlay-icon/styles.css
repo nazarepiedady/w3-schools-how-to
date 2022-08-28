@@ -26,3 +26,7 @@
   transition: 0.3s ease;
   background-color: tomato;
 }
+
+.container:hover .overlay {
+  opacity: 1;
+}
