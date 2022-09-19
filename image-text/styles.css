@@ -19,3 +19,9 @@
   left: 16px;
   position: absolute;
 }
+
+.top-right {
+  top: 8px;
+  right: 16px;
+  position: absolute;
+}
