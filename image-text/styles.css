@@ -1,3 +1,9 @@
 * {
   font-family: 'noto sans', sans-serif;
 }
+
+.container {
+  /*color: #000;*/
+  text-align: center;
+  position: relative;
+}
