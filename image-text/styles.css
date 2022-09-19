@@ -7,3 +7,9 @@
   text-align: center;
   position: relative;
 }
+
+.bottom-left {
+  left: 16px;
+  bottom: 8px;
+  position: absolute;
+}
