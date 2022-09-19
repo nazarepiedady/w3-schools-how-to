@@ -13,3 +13,9 @@
   bottom: 8px;
   position: absolute;
 }
+
+.top-left {
+  top: 8px;
+  left: 16px;
+  position: absolute;
+}
