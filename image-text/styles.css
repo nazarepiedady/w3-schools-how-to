@@ -25,3 +25,9 @@
   right: 16px;
   position: absolute;
 }
+
+.bottom-right {
+  right: 16px;
+  bottom: 8px;
+  position: absolute;
+}
