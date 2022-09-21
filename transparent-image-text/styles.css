@@ -6,3 +6,9 @@
 body {
   font-size: 18px;
 }
+
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+  position: relative;
+}
