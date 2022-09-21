@@ -12,3 +12,12 @@ body {
   max-width: 800px;
   position: relative;
 }
+
+.content {
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  color: #f1f1f1;
+  position: absolute;
+  background-color: rgba(0, 0, 0, .5);
+}
