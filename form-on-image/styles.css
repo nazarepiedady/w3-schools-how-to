@@ -52,3 +52,7 @@ body {
   padding: 16px 20px;
   background-color: #04aa6d;
 }
+
+.submit-button:hover {
+  opacity: 1;
+}
