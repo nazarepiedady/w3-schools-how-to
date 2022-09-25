@@ -25,3 +25,7 @@ body {
   position: absolute;
   background-color: #fff;
 }
+
+.form__label {
+  font-weight: bold;
+}
