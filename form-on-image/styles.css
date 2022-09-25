@@ -9,7 +9,7 @@ body {
 }
 
 .background-image {
-  min-height: 300px;
+  min-height: 380px;
   position: relative;
   background-size: cover;
   background-position: center;
