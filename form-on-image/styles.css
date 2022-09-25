@@ -19,9 +19,9 @@ body {
 
 .form {
   right: 0;
-  margin: 20px;
   padding: 16px;
   max-width: 300px;
+  margin: 10px 20px;
   position: absolute;
   background-color: #fff;
 }
