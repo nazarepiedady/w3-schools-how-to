@@ -42,3 +42,13 @@ body {
   outline: 0;
   background-color: #ddd;
 }
+
+.submit-button {
+  border: 0;
+  width: 100%;
+  color: #fff;
+  opacity: 0.9;
+  cursor: pointer;
+  padding: 16px 20px;
+  background-color: #04aa6d;
+}
