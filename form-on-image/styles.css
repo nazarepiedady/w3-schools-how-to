@@ -16,3 +16,12 @@ body {
   background-repeat: no-repeat;
   background-image: url('images/img_nature.jpg');
 }
+
+.form {
+  right: 0;
+  margin: 20px;
+  padding: 16px;
+  max-width: 300px;
+  position: absolute;
+  background-color: #fff;
+}
