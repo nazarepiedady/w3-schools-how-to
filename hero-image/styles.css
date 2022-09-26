@@ -40,3 +40,8 @@ body {
   display: inline-block;
   background-color: #ddd;
 }
+
+.hero-button:hover {
+  color: #fff;
+  background-color: #555;
+}
