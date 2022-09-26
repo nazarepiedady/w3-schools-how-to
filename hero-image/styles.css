@@ -26,3 +26,17 @@ body {
   text-align: center;
   transform: translate(-50%, -50%);
 }
+
+.hero-button {
+  border: 0;
+  outline: 0;
+  color: #000;
+  margin-top: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 6px;
+  padding: 10px 42px;
+  text-align: center;
+  display: inline-block;
+  background-color: #ddd;
+}
