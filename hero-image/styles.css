@@ -45,3 +45,8 @@ body {
   color: #fff;
   background-color: #555;
 }
+
+.first-heading {
+  line-height: 1;
+  font-size: 36px;
+}
