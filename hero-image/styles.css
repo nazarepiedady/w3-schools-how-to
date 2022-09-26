@@ -17,3 +17,12 @@ body {
   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
                     url('images/photographer.jpg');
 }
+
+.hero-content {
+  top: 50%;
+  left: 50%;
+  color: #fff;
+  position: absolute;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
