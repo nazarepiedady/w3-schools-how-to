@@ -8,3 +8,12 @@ body {
   margin: 0;
   height: 100%;
 }
+
+.background-image {
+  height: 100%;
+  filter: blur(8px);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('images/photographer.jpg');
+}
