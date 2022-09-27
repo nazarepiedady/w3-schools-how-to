@@ -2,3 +2,9 @@
   box-sizing: border-box;
   font-family: 'noto sans', sans-serif;
 }
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
