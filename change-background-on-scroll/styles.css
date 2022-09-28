@@ -15,3 +15,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.image-1 {
+  background-image: url('images/img_snow.jpg');
+}
