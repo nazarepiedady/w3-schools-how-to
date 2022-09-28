@@ -39,3 +39,19 @@ body {
 .image-6 {
   background-image: url('images/img_woods.jpg');
 }
+
+.foreground-text {
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  color: #fff;
+  width: 58%;
+  padding: 20px;
+  font-size: 80px;
+  position: fixed;
+  font-weight: bold;
+  text-align: center;
+  border: 10px solid #f1f1f1;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.4);
+}
