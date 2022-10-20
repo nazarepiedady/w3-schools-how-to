@@ -3,6 +3,11 @@
   font-family: 'ubuntu', sans-serif;
 }
 
+h2 {
+  color: #555;
+  font-size: 18px;
+}
+
 .row:after {
   clear: both;
   content: '';
