@@ -3,6 +3,12 @@
   font-family: 'ubuntu', sans-serif;
 }
 
+.row:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
 .column {
   float: left;
   padding: 5px;
